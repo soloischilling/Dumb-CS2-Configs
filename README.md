@@ -3,7 +3,7 @@
 ## Download/Installing:
 
 ### 1. Download the config as a ZIP:
-Near the top right of the page it should say "Download ZIP", click it. If it asks, confirm the download, and send it to your "Downloads" folder. 
+On the webpage there should be a button that says "Code", click it. In the "Code" dropdown menu, it should say "Download ZIP", click it. If necessary confirm the download, and send it to your "Downloads" folder. 
 
 _(The file path should be_ `C:\Users\USERNAME\Downloads` _or something similar.)_
 

@@ -39,12 +39,6 @@ _(Easy one time thing, but means it will autoexec everytime you launch CS2, unti
 **Method 2:** Launch CS2 and enter `exec "config_name"` into the console. Replace "config_name" with the name of the config file.
 
 _(You will have to do this every single time you launch the game, but gives you more control. May also trigger VAC randomly, less.)_
-  
----
-
-## Help: 
-You can use the console command `?help` in CS2, for more info on the config, just make sure you have the config executed, or the command won't work.
-You can also contact me at "soloischilling" on Discord.
 
 ---
 > Thank you for using my configs! **-Solo**
